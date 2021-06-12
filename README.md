@@ -1,4 +1,4 @@
-# Avoid and Shoot Obstacles
+# Missile Interception Game
 
 1.	What does this project do?
 
