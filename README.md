@@ -1,4 +1,4 @@
-# Game to Avoid and Shoot Obstacles
+# Avoid and Shoot Obstacles
 
 1.	What does this project do?
 
