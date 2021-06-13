@@ -28,6 +28,7 @@
     
    1. In Windows OS environments, the Windows.h header file runs well, but it may not work on other OS environments. 
    2. Compilation may not work properly, especially when running on Linux.
+     
      +  Method 1. Interlink Vs-code with raspberrypi
      +  Method 2. Modifying console or Windows-related functions through the ncurses library on Linux
      +  Reference about method 2: 
