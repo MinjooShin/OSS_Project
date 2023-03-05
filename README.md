@@ -36,5 +36,5 @@
 
 
 #### Where can I get more help, if I need it?
-   Please email me! -> *21900394@handong.edu*
+   Please email me! -> *minjooshin@handong.ac.kr*
    
